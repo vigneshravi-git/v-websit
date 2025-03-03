@@ -1,0 +1,1588 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", serif;
+}
+
+/*.body {
+    background-image: url(/v one websit/Images/logo\ and\ name-1\ -\ Copy.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}*/
+.back {
+    background-image: url(./Images/upholsterer-60.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner {
+    background-image: url(./Images/Banner.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 225px 0;
+
+}
+
+.font-color {
+    color: rgb(236, 234, 234);
+}
+
+.card-border {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.card-border-1 {
+    width: 70%;
+
+}
+
+.card-border h1 {
+    border-bottom: 3px solid #222;
+}
+
+.card-img-top {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.bg2 {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.devcont {
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    padding: 25px;
+
+}
+
+.Link-2 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 50px;
+}
+
+/*.social {
+    background-image: url(/Images/Footer\ logo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    /*background-color:#ffffff;
+    border-top: 2px dotted;
+    border-color: black;
+    
+}
+.social-link ul  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    padding: 5px;
+  
+}
+.page-link {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.page-link ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.page-link  a {
+    text-decoration: none;
+    color:black;
+
+    
+}
+.page-link ul  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-size: 15px;
+
+    
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-top: 1px groove;
+    border-color: black;
+}*/
+.sevrice-banner {
+
+    background-image: url(./Images/Our\ Services.jpg);
+    position: relative;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+
+}
+
+.se-font {
+    font-size: 60px;
+    font-weight: normal;
+
+
+}
+
+.sevrice-banner a {
+    text-decoration: none;
+    padding: 20px;
+    color: #fff;
+
+}
+
+.service-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.fon {
+    font-size: 50px;
+
+}
+
+.se-vie {
+    display: table-cell;
+    display: flex;
+    padding: 100px 0px 50px 0;
+
+}
+
+.se-vi {
+
+    text-align: left;
+
+}
+
+.se-mail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.se-mail-2 {
+
+    text-align: center;
+}
+
+.se-mail-3 {
+    font-size: 35px;
+
+}
+
+.se-mail-3 a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.contact-banner {
+    padding: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.contact-banner a {
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+
+}
+
+.co-font {
+    font-size: 60px;
+
+}
+
+.contact-fo {
+    padding: 30px;
+    color: black;
+}
+
+.co-us a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.co-us li {
+    list-style: none;
+    padding: 5px;
+}
+
+.about-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+.About-Us {
+    padding-bottom: 350px;
+}
+
+.Reie-font {
+    font-size: 30px;
+
+}
+
+.Reie-banner a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.Reie-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.reie-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.reie-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.reie-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.reie-text h1 {
+    font-size: 30px;
+}
+
+.reie-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.reie-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.reie-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.reie-img .img-1,
+.reie-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.reie-img .img-1 {
+    background-image: url(./Images/C2/Before.jpg);
+}
+
+.reie-img .img-2 {
+    background-image: url(./Images/C2/After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+.reie-se, .vs-se, .ps-se, .ae-se, .cm-se, .hdr-se, .ps-se, .sr-se {
+    padding-top: 150px;
+}
+.vs-font {
+    font-size: 30px;
+}
+
+.vs-banner {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.vs-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.vs-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.vs-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.vs-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.vs-text h1 {
+    font-size: 40px;
+}
+
+.vs-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.vs-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.vs-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.vs-img .img-1,
+.vs-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.vs-img .img-1 {
+    background-image: url(./Images/C2/VS\ Before.jpg);
+}
+
+.vs-img .img-2 {
+    background-image: url(./Images/C2/VS\ After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+.cm-font {
+    font-size: 30px;
+}
+
+.cm-banner {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.cm-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.cm-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.cm-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.cm-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.cm-text h1 {
+    font-size: 40px;
+}
+
+.cm-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.cm-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.cm-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.cm-img .img-1,
+.cm-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.cm-img .img-1 {
+    background-image: url(./Images/C2/CM\ Before.png);
+}
+
+.cm-img .img-2 {
+    background-image: url(./Images/C2/CM\ After.png);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+.ps-font {
+    font-size: 30px;
+}
+
+.ps-banner {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.ps-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.ps-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.ps-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ps-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.ps-text h1 {
+    font-size: 40px;
+}
+
+.ps-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.ps-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.ps-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.ps-img .img-1,
+.ps-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.ps-img .img-1 {
+    background-image: url(./Images/C2/PS\ Before.jpg);
+}
+
+.ps-img .img-2 {
+    background-image: url(./Images/C2/PS\ After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+.sr-font {
+    font-size: 30px;
+}
+
+.sr-banner {
+    padding: 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.sr-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.sr-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.sr-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sr-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.sr-text h1 {
+    font-size: 40px;
+}
+
+.sr-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.sr-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.sr-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.sr-img .img-1,
+.sr-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.sr-img .img-1 {
+    background-image: url(./Images/C2/SR\ Before.jpg);
+}
+
+.sr-img .img-2 {
+    background-image: url(./Images/C2/SR\ After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+.hdr-font {
+    font-size: 30px;
+}
+
+.hdr-banner {
+
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.hdr-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.hdr-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.hdr-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hdr-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.hdr-text h1 {
+    font-size: 40px;
+}
+
+.hdr-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.hdr-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.hdr-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.hdr-img .img-1,
+.hdr-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.hdr-img .img-1 {
+    background-image: url(./Images/C2/HDR\ Before.jpg);
+}
+
+.hdr-img .img-2 {
+    background-image: url(./Images/C2/HDR\ After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+h1 {
+    font-size: 3.2rem;
+    text-transform: uppercase;
+    padding: 24px 0;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.gallery img {
+    max-width: 298px;
+    max-height: 224px;
+    margin: 2px;
+}
+
+.gallery img:hover {
+    cursor: pointer;
+    filter: brightness(70%);
+}
+
+#FullImageViem {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .9);
+    text-align: center;
+}
+
+#FullImage {
+    padding: 24px;
+    max-width: 93%;
+    max-height: 93%;
+}
+
+#CloseButton {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-size: 4rem;
+    color: white;
+    cursor: pointer;
+
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        scale: 0.5;
+    }
+
+    to {
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+.card {
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 30%;
+
+}
+
+.ae-font {
+    font-size: 30px;
+}
+
+.ae-banner {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.ae-banner a {
+    color: rgb(255, 255, 255);
+}
+
+/* General Layout */
+.ae-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    margin: auto;
+    max-width: 90%;
+}
+
+.ae-co {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ae-text {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.ae-text h1 {
+    font-size: 40px;
+}
+
+.ae-text p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Image Container */
+.ae-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.ae-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.ae-img .img-1,
+.ae-img .img-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.ae-img .img-1 {
+    background-image: url(./Images/C2/AE\ Before.JPG);
+}
+
+.ae-img .img-2 {
+    background-image: url(./Images/C2/AE\ After.jpg);
+    width: 50%;
+    transition: width 0.3s ease;
+}
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    z-index: 11;
+}
+
+/* Drag Line */
+.drag-line {
+    position: absolute;
+    left: 48%;
+    width: 3px;
+    height: 100%;
+    background: white;
+    transition: left 0.3s ease;
+}
+
+.drag-line span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.drag-line span::before,
+.drag-line span::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.drag-line span::before {
+    transform: rotate(135deg);
+    left: 10px;
+}
+
+.drag-line span::after {
+    transform: rotate(-45deg);
+    right: 10px;
+}
+
+.pf {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+.pf h1 {
+    color: #fff;
+}
+
+.pf-h {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/*.pf-text {
+   display: flex;
+   align-items: center;
+   justify-content: right;
+   margin-right: 25px;
+}*/
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.gallery img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+}
+
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+}
+
+.lightbox img {
+    max-width: 800%;
+    max-height: 800%;
+}
+
+.lightbox .close {
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+.form-gfs {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.fixed-bottom {
+    bottom: 50px;
+}
+
+.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.322);
+    border-color: white;
+}
+
+.btn-2 .btn {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-size: 1.25rem;
+
+}
+.office-hours {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (max-width: 320px) {
+    .banner h1, .co-font  {
+        font-size: 30px;
+
+    }
+
+    .se-mail-3  {
+        font-size: 20px;
+
+    }
+    .navbar-brand {
+        width: 200px;
+        height: 45px;
+    }
+    .form-gfs h1 {
+        font-size: 30px;
+    }
+    .lightbox img {
+        max-width: 500px;
+        max-height: 500px;
+    }
+    .what {
+        font-size: 29.5px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .lightbox img {
+        max-width: 500px;
+        max-height: 500px;
+    }
+}
+.dropdown-menu {
+    padding-top: 15px;
+    background-color:rgba(0, 0, 0, 0.603);
+    border-color: rgba(255, 252, 252, 0);
+}
+.dropdown-menu li a {
+    color: rgb(255, 251, 251);
+    
+}
+.dropdown-menu li a:hover {
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.616);
+}
+.card {
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+}
+.about {
+    padding-bottom: 350px;
+}
