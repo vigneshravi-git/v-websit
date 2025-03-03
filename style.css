@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
 }*/
 .back {
-    background-image: url(./Images/upholsterer-60.png);
+    background-image: url(/Images/upholsterer-60.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -138,7 +138,7 @@
 }*/
 .sevrice-banner {
 
-    background-image: url(./Images/Our\ Services.jpg);
+    background-image: url(/Images/Our\ Services.jpg);
     position: relative;
     background-position: bottom;
     background-size: cover;
@@ -211,7 +211,7 @@
 
 .contact-banner {
     padding: 20px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@
 }
 
 .about-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -270,7 +270,7 @@
 }
 
 .Reie-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -339,11 +339,11 @@
 }
 
 .reie-img .img-1 {
-    background-image: url(./Images/C2/Before.jpg);
+    background-image: url(/Images/C2/Before.jpg);
 }
 
 .reie-img .img-2 {
-    background-image: url(./Images/C2/After.jpg);
+    background-image: url(/Images/C2/After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -424,7 +424,7 @@
 
 .vs-banner {
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -497,11 +497,11 @@
 }
 
 .vs-img .img-1 {
-    background-image: url(./Images/C2/VS\ Before.jpg);
+    background-image: url(/Images/C2/VS\ Before.jpg);
 }
 
 .vs-img .img-2 {
-    background-image: url(./Images/C2/VS\ After.jpg);
+    background-image: url(/Images/C2/VS\ After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -580,7 +580,7 @@
 
 .cm-banner {
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -653,11 +653,11 @@
 }
 
 .cm-img .img-1 {
-    background-image: url(./Images/C2/CM\ Before.png);
+    background-image: url(/Images/C2/CM\ Before.png);
 }
 
 .cm-img .img-2 {
-    background-image: url(./Images/C2/CM\ After.png);
+    background-image: url(/Images/C2/CM\ After.png);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -736,7 +736,7 @@
 
 .ps-banner {
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -809,11 +809,11 @@
 }
 
 .ps-img .img-1 {
-    background-image: url(./Images/C2/PS\ Before.jpg);
+    background-image: url(/Images/C2/PS\ Before.jpg);
 }
 
 .ps-img .img-2 {
-    background-image: url(./Images/C2/PS\ After.jpg);
+    background-image: url(/Images/C2/PS\ After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -892,7 +892,7 @@
 
 .sr-banner {
     padding: 0px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -965,11 +965,11 @@
 }
 
 .sr-img .img-1 {
-    background-image: url(./Images/C2/SR\ Before.jpg);
+    background-image: url(/Images/C2/SR\ Before.jpg);
 }
 
 .sr-img .img-2 {
-    background-image: url(./Images/C2/SR\ After.jpg);
+    background-image: url(/Images/C2/SR\ After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -1048,7 +1048,7 @@
 
 .hdr-banner {
 
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1121,11 +1121,11 @@
 }
 
 .hdr-img .img-1 {
-    background-image: url(./Images/C2/HDR\ Before.jpg);
+    background-image: url(/Images/C2/HDR\ Before.jpg);
 }
 
 .hdr-img .img-2 {
-    background-image: url(./Images/C2/HDR\ After.jpg);
+    background-image: url(/Images/C2/HDR\ After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -1272,7 +1272,7 @@ h1 {
 }
 
 .ae-banner {
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1345,11 +1345,11 @@ h1 {
 }
 
 .ae-img .img-1 {
-    background-image: url(./Images/C2/AE\ Before.JPG);
+    background-image: url(/Images/C2/AE\ Before.JPG);
 }
 
 .ae-img .img-2 {
-    background-image: url(./Images/C2/AE\ After.jpg);
+    background-image: url(/Images/C2/AE\ After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -1423,7 +1423,7 @@ h1 {
 }
 
 .pf {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
