@@ -18,7 +18,7 @@
 }
 
 .banner {
-    background-image: url(./Images/Banner.jpg);
+    background-image: url(Images/Banner.jpg);
     background-attachment: fixed;
     background-size: cover;
     position: relative;
