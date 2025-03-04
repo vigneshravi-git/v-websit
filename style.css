@@ -138,7 +138,7 @@
 }*/
 .sevrice-banner {
 
-    background-image: url(/Images/Our\ Services.jpg);
+    background-image: url(./Images/Our\ Services.jpg);
     position: relative;
     background-position: bottom;
     background-size: cover;
@@ -211,7 +211,7 @@
 
 .contact-banner {
     padding: 20px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@
 }
 
 .about-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
