@@ -270,7 +270,7 @@
 }
 
 .Reie-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -339,11 +339,11 @@
 }
 
 .reie-img .img-1 {
-    background-image: url(/Images/C2/Before.jpg);
+    background-image: url(./Images/C2/Before.jpg);
 }
 
 .reie-img .img-2 {
-    background-image: url(/Images/C2/After.jpg);
+    background-image: url(./Images/C2/After.jpg);
     width: 50%;
     transition: width 0.3s ease;
 }
@@ -1423,7 +1423,7 @@ h1 {
 }
 
 .pf {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(/Images/Content\ Banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(./Images/Content\ Banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1556,7 +1556,7 @@ h1 {
         max-height: 500px;
     }
     .what {
-        font-size: 29.5px;
+        font-size: 29.6px;
     }
 }
 @media screen and (max-width: 576px) {
