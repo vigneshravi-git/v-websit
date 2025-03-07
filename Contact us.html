@@ -88,7 +88,8 @@
             below to submit your Query.
           <p>Fields marked with * are mandatory.</p>
 
-          <form id="contact-form" class="needs-validation" name="contact" netlify novalidate>
+          <form class="  g-2 needs-validation" action="https://api.web3forms.com/submit" method="POST" novalidate>
+            <input type="hidden" name="access_key" value="94c73ec6-515c-4802-935d-356b8cdf86d5">
             <div class="mb-3">
               <label for="validationCustom01" class="form-label">Name*</label>
               <input type="text" id="name" name="name" class="form-control" id="validationCustom01" required>
@@ -239,4 +240,5 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
   integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
 </html>
